@@ -6,7 +6,7 @@ Limkokwing University of Creative Technology, Sierra Leone – Department of Inf
 - **Student:** Anita Bayo
 - **Student ID:** 905006588
 - **Class:** BIT1101
-- **Lecturer:** Mr. Elijah Fullah
+- **Lecturer:** Mr. Julius Laggah
 
 ## About the project
 
